@@ -1,4 +1,4 @@
-# A demonstration of Obsidian Canvas and Dataview
+# A Demonstration of Obsidian Canvas and Dataview
 
 ## Description
 
