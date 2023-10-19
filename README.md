@@ -16,5 +16,7 @@ In addition to the canvas, the vault includes templates for unique notes and exe
 
 The layout expects images of 100 pixels wide, and so the field should look like `![[Name of Image.png|100]]` 
 
+![](https://www.paypal.com/donate/?business=3Y2MGAU7LYQBJ&no_recurring=0&item_name=If+you+find+my+work+useful%2C+please+consider+a+contribution+towards+my+future+work.&currency_code=USD)
+
 ![ExcDashboard](https://github.com/biscotty666/Obsidian-Exercise-Dashboard/assets/107413839/7abb1fd4-96b7-4844-8ae0-1827c4552c28)
 
