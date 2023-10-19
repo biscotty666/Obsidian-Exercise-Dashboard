@@ -1,0 +1,129 @@
+{
+  "presetFields": [
+    {
+      "name": "action",
+      "options": {},
+      "id": "1",
+      "type": "Boolean",
+      "command": {
+        "id": "insert__presetField__action",
+        "icon": "list-plus",
+        "label": "Insert action field"
+      }
+    },
+    {
+      "name": "type",
+      "options": {
+        "valuesList": {
+          "1": "article",
+          "2": "fleeting",
+          "3": "reference",
+          "4": "atomic",
+          "5": "moc",
+          "6": "script",
+          "7": "log",
+          "8": "values",
+          "9": "quote",
+          "10": "video",
+          "11": "guide",
+          "12": "template"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "2",
+      "type": "Multi",
+      "command": {
+        "id": "insert__presetField__type",
+        "icon": "list-plus",
+        "label": "Insert type field"
+      }
+    },
+    {
+      "name": "status",
+      "options": {
+        "step": "10",
+        "min": "0",
+        "max": "100"
+      },
+      "id": "3",
+      "type": "Number",
+      "command": {
+        "id": "insert__presetField__status",
+        "icon": "list-plus",
+        "label": "Insert status field"
+      }
+    },
+    {
+      "name": "topic",
+      "options": {},
+      "id": "5",
+      "type": "MultiFile",
+      "command": {
+        "id": "insert__presetField__topic",
+        "icon": "list-plus",
+        "label": "Insert topic field"
+      }
+    },
+    {
+      "name": "related",
+      "options": {},
+      "id": "6",
+      "type": "MultiFile",
+      "command": {
+        "id": "insert__presetField__related",
+        "icon": "list-plus",
+        "label": "Insert related field"
+      }
+    },
+    {
+      "name": "created",
+      "options": {
+        "dateFormat": "YYYY-MM-DD ddd",
+        "defaultInsertAsLink": "true",
+        "linkPath": "Calendar/Daily Notes/Notes/"
+      },
+      "id": "7",
+      "type": "Date",
+      "command": {
+        "id": "insert__presetField__created",
+        "icon": "list-plus",
+        "label": "Insert created field"
+      }
+    },
+    {
+      "name": "last edit",
+      "options": {
+        "dateFormat": "YYYY-MM-DD ddd",
+        "defaultInsertAsLink": "false",
+        "linkPath": "Calendar/Daily Notes/Notes/"
+      },
+      "id": "8",
+      "type": "Date",
+      "command": {
+        "id": "insert__presetField__last edit",
+        "icon": "list-plus",
+        "label": "Insert last edit field"
+      }
+    }
+  ],
+  "fileClassQueries": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": "fileClasses/",
+  "isAutosuggestEnabled": true,
+  "fileClassAlias": "fileClass",
+  "settingsVersion": 3,
+  "firstDayOfWeek": 1,
+  "enableLinks": true,
+  "enableTabHeader": true,
+  "enableEditor": true,
+  "enableBacklinks": true,
+  "enableStarred": true,
+  "enableFileExplorer": true,
+  "enableSearch": true,
+  "buttonIcon": "clipboard-list",
+  "tableViewMaxRecords": 100,
+  "frontmatterListDisplay": "asList"
+}

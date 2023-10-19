@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"2f1f84e4bdb1dd3a","type":"text","text":"```dataviewjs\ndv.header(3, \"Gallery\")\ndv.table([\"Picture\", \"Route\", \"Log\"],\n\tdv.pages()\n\t\t.where(t => t.type == \"log\")\n\t\t.where(i => i.Image)\n\t\t.sort(p=>p.activitydate, \"desc\")\n\t\t.map(p=> [\n\t\t\tp.Image,\n\t\t\tp.route,\n\t\t\tp.file.link,\n\t\t]\n\t)\n)\n```\n","x":1349,"y":-1280,"width":451,"height":760},
+		{"id":"77a62e2cfb7c47a5","type":"file","file":"Notes/Prior 7 Details.md","x":640,"y":-900,"width":708,"height":380},
+		{"id":"44c115e500af74c2","type":"file","file":"Notes/30 Day Stats.md","x":280,"y":-1080,"width":360,"height":560},
+		{"id":"a826a333142be5ef","type":"file","file":"Notes/7DayStats.md","x":-80,"y":-1080,"width":360,"height":560},
+		{"id":"1e52d3735a1b3a4b","type":"text","text":"```dataviewjs\nconst today = moment(Date.now()).format(\"MMMM DD, YYYY\")\ndv.header(1, `Today is ${today}`)\n```","x":-80,"y":-1180,"width":720,"height":100},
+		{"id":"f295e721c1d703a9","type":"text","text":"<h1 class=\"title-tag-1\">Exercise Dashboard</h1>\n","x":-80,"y":-1280,"width":720,"height":100},
+		{"id":"55594a26fdfab184","type":"file","file":"Notes/7 day Excercise.md","x":640,"y":-1280,"width":709,"height":380}
+	],
+	"edges":[]
+}

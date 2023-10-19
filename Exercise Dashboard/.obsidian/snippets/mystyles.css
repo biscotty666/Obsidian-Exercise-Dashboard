@@ -1,0 +1,83 @@
+
+:root {
+/*      --default-font: "Quicksand", serif; */
+/*      font-weight: 600; */
+}
+
+h1 {
+	text-align: center;
+}
+
+.wrap-if {
+  width: 850px;
+  height: 500px;
+  padding: 0;
+  overflow: hidden;
+}
+
+.scaled-if {
+  width: 700px;
+  height: 1200px;
+  border: 0px;
+}
+
+.scaled-if {
+    zoom: 0.5;
+  -moz-transform: scale(0.5);
+  -moz-transform-origin: 0 0;
+  -o-transform: scale(0.5);
+  -o-transform-origin: 0 0;
+  -webkit-transform: scale(0.5);
+  -webkit-transform-origin: 0 0;
+}
+
+.table-view-table tbody tr {
+	text-align: right;
+}
+
+
+.db-exercise tbody tr {
+	text-align: right;
+}
+
+
+.col-2 {
+	columns: 3;
+
+}
+
+.col-3 {
+	columns: 3;
+
+}
+
+.dataview .small-text {
+	display: none;
+}
+
+.gallery-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.gallery-list > li {
+	margin: auto;
+	list-style-type: none;
+}
+
+.imgcenter {
+	display: block;
+	margin: 0px auto;
+}
+
+.my-tag {
+	color: teal;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.cta {
+	color: teal;
+	font-size: 1.2em;
+	font-weight: bold;
+}

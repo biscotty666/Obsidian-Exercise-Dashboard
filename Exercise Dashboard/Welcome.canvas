@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"5fafc35bf5826aad","type":"text","text":"# Description\nThis vault is configured to log walking and biking activities. It is based around the [Freeing Your Thinking](https://biscotty.online/blogs/freeing-your-thinking-part-1) workflow. \n# Usage\nLog entries can be created with `ctrl-U`, then adding the exercise file class and the associated fields via the context (right-click) menu, and filling out, at a minimum, activity type, activity date, distance and duration via the Metadata Menu modal. **Each log (note) must have a type of \"log\". **\n# Contents\nIn addition to the canvas, the vault includes templates for unique notes and exercise logs (notes). A default and an exercise fileClass are provided, with configuration files for exercise routes and file types. The conf files can be edited manually or via the Metadata Menu modal. A number of CSS files are included in the hidden `obsidian/snippets` directory.\n\n# Images\nThe layout expects images of 100 pixels wide, and so the field should look like `![[Name of Image.png|100]]`.\n","x":-1500,"y":-600,"width":930,"height":520},
+		{"id":"699a4bae1893d405","type":"text","text":"<h1 class=\"title-tag-1\">Canvas Dashboard</h1>","x":-1500,"y":-720,"width":710,"height":120},
+		{"id":"7b7e87a265f9de7b","type":"text","text":"![[ExcDashboard.png]]","x":-790,"y":-720,"width":220,"height":120}
+	],
+	"edges":[]
+}

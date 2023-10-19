@@ -1,0 +1,17 @@
+fleeting
+atomic
+reference
+permanent
+moc
+log
+idea
+question
+example
+article
+narrative
+map
+video
+script
+lesson
+quote
+story

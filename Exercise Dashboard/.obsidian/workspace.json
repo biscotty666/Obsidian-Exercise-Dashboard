@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "985ab43c1fc88da2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b289ec5dfad2c958",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2a75e92a97ba7dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Welcome.canvas",
+                "viewState": {
+                  "x": -1035,
+                  "y": -400,
+                  "zoom": 0
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "84d92db8caa8b142",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvases/Exercise Dashboard.canvas",
+                "viewState": {
+                  "x": 860,
+                  "y": -900,
+                  "zoom": -0.5930076145357088
+                }
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12f799926c5d3df7",
+    "type": "split",
+    "children": [
+      {
+        "id": "91434809a7d9959c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcc1a787e826ad87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1ee286fc08b5bca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cacea518d62b4462",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "13ecc25e44f63313",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c255d3b7809075b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88a496ac6a63a3b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87a1b2d678f5bd4b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4625f2a06ee68d5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9931892e93e6ac54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.canvas"
+              }
+            }
+          },
+          {
+            "id": "9c3e111d60914ed6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "b2a75e92a97ba7dc",
+  "lastOpenFiles": [
+    "Canvases/Exercise Dashboard.canvas",
+    "Welcome.canvas",
+    "Attachments/ExcDashboard.png",
+    "Notes/Donate.md",
+    "Notes/Prior 7 Details.md",
+    "Notes/7 day Excercise.md",
+    "Notes/30 Day Stats.md",
+    "Notes/7DayStats.md",
+    "Notes/202310191249.md",
+    "Canvases",
+    "fileClasses.conf/Routes.md",
+    "fileClasses.conf/types.md",
+    "fileClasses.conf/Stage.md",
+    "fileClasses.conf/Published To.md",
+    "fileClasses.conf/Organizations.md",
+    "fileClasses.conf/AOI.md",
+    "fileClasses.conf",
+    "Templates/Unique Note.md",
+    "Templates/Exercise.md",
+    "fileClasses/exercise.md",
+    "fileClasses/Default.md",
+    "fileClasses",
+    "Attachments",
+    "Notes",
+    "Templates"
+  ]
+}

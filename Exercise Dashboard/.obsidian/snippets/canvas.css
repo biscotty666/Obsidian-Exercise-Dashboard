@@ -1,0 +1,56 @@
+svg.canvas-background {
+	background: linear-gradient(80deg, #253B0B, #2c0149, #390B1C);
+}
+
+svg.canvas-background circle {
+	display: none;
+}
+
+.markdown-rendered .title-tag-1 {
+	text-align: center;
+	font-size: 4em;
+}
+.markdown-rendered .title-tag-2 {
+	text-align: center;
+	font-size: 3em;
+}
+.markdown-rendered .title-tag-3 {
+	text-align: center;
+	font-size: 2em;
+}
+.canvas-group-label {
+	font-size: 2em;
+	font-family: "Quicksand";
+	font-weight: bold;
+	color: black;
+}
+
+.task-description {
+	color: cyan;
+}
+
+.tasks-backlink {
+	display: none;
+}
+
+.markdown-rendered .internal-link {
+	color: salmon;
+}
+
+.markdown-rendered {
+	font-family: "Quicksand";
+}
+
+.markdown-rendered mark {
+	background-color: #400020;
+	color: #eaea77;
+	font-size: 1.4em;
+	font-weight: bold;
+}
+
+.markdown-rendered .cta {
+	color: #b7db6f;
+	font-size: 1.2em;
+}
+
+
