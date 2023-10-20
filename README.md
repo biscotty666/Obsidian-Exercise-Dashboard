@@ -11,7 +11,9 @@ This vault is configured to log walking and biking activities. It is based aroun
 
 ## Usage
 
-Log entries can be created with `ctrl-U`, then adding the exercise file class and the associated fields via the context (right-click) menu, and filling out, at a minimum, activity type, activity date, distance and duration via the Metadata Menu modal. **Each log (note) must have a type of "log". **
+Log entries can be created with `ctrl-U`, then adding the exercise file class and the associated fields via the context (right-click) menu, and filling out, at a minimum, activity type, activity date, distance and duration via the Metadata Menu modal. **Each log (note) must have a type of "log".**
+
+This works as a stand-alone vault. It can easily be incorporated into an existing vault. The templates and fileClass definitions need to go in specific locations, but the rest can be placed anywhere. If you are not currently using any of the plugins, you can simply copy the directory from `.obsidian/plugins` and the theme from `.obsidian/themes`. Don't forget to copy and enable the `css` files.
 
 ## Contents
 
