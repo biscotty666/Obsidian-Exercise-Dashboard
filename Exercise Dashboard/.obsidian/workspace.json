@@ -14,7 +14,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "index.canvas",
+                "file": "Welcome.canvas",
                 "viewState": {
                   "x": -1035,
                   "y": -400,
@@ -22,18 +22,6 @@
                 }
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "c09cda37ccae18d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Description.md",
-                "mode": "source",
-                "source": false
-              }
             }
           },
           {
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.canvas",
+                "file": "Welcome.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.canvas",
+                "file": "Welcome.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.canvas"
+                "file": "Welcome.canvas"
               }
             }
           },
@@ -196,6 +184,8 @@
   },
   "active": "b2a75e92a97ba7dc",
   "lastOpenFiles": [
+    "Canvases/Exercise Dashboard.canvas",
+    "Welcome.canvas",
     "Templates/Unique Note.md",
     "Notes/Prior 7 Details.md",
     "Notes/Description.md",
@@ -207,8 +197,6 @@
     "fileClasses.conf/Routes.md",
     "fileClasses/exercise.md",
     "fileClasses/Default.md",
-    "Canvases/Exercise Dashboard.canvas",
-    "index.canvas",
     "HTML",
     "Attachments/ExcDashboard.png",
     "Notes/Donate.md",
