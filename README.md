@@ -1,5 +1,7 @@
 # A Demonstration of Obsidian Canvas and Dataview
 
+View in [HTML](https://biscotty666.github.io/Obsidian-Exercise-Dashboard/HTML/canvases/exercise-dashboard.html)
+
 ![ExcCanvas](https://github.com/biscotty666/Obsidian-Exercise-Dashboard/assets/107413839/dcda2ef5-f235-49cb-b165-2b3edfe88d54)
 
 
