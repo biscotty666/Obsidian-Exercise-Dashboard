@@ -1,10 +1,10 @@
 {
-  "inlineCSS": true,
-  "inlineJS": true,
-  "inlineImages": true,
+  "inlineCSS": false,
+  "inlineJS": false,
+  "inlineImages": false,
   "includePluginCSS": "metadata-menu\ndataview\nobsidian-hover-editor",
   "includeSvelteCSS": true,
-  "makeNamesWebStyle": false,
+  "makeNamesWebStyle": true,
   "allowFoldingHeadings": true,
   "sidebarsAlwaysCollapsible": true,
   "addFilenameTitle": false,
@@ -18,9 +18,9 @@
   "deleteOldExportedFiles": false,
   "addDarkModeToggle": true,
   "includeOutline": false,
-  "includeGraphView": false,
+  "includeGraphView": true,
   "includeFileTree": true,
-  "exportPreset": "documents",
+  "exportPreset": "website",
   "openAfterExport": true,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
@@ -29,7 +29,7 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "exportPath": "/home/biscotty/EDV/HTML",
+  "exportPath": "/home/biscotty/Projects/ExcDashVault/HTML",
   "filesToExport": [
     []
   ]

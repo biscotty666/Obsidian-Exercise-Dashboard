@@ -14,7 +14,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Welcome.canvas",
+                "file": "index.canvas",
                 "viewState": {
                   "x": -1035,
                   "y": -400,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.canvas",
+                "file": "index.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.canvas",
+                "file": "index.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.canvas"
+                "file": "index.canvas"
               }
             }
           },
@@ -194,47 +194,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "8f15e9f87d4508b1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4de5bd2a95f45475",
-        "type": "window",
-        "children": [
-          {
-            "id": "753bbc6f642067c5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f8a94ef09a53cf11",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Welcome.canvas",
-                    "viewState": {
-                      "x": 0,
-                      "y": 0,
-                      "zoom": 0
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 555,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f8a94ef09a53cf11",
+  "active": "b2a75e92a97ba7dc",
   "lastOpenFiles": [
     "Templates/Unique Note.md",
     "Notes/Prior 7 Details.md",
@@ -248,7 +208,7 @@
     "fileClasses/exercise.md",
     "fileClasses/Default.md",
     "Canvases/Exercise Dashboard.canvas",
-    "Welcome.canvas",
+    "index.canvas",
     "HTML",
     "Attachments/ExcDashboard.png",
     "Notes/Donate.md",
