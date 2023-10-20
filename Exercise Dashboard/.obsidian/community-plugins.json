@@ -3,5 +3,7 @@
   "templater-obsidian",
   "obsidian-hover-editor",
   "metadata-menu",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-pandoc",
+  "webpage-html-export"
 ]

@@ -53,8 +53,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Description.md",
+                "file": "Welcome.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Description.md",
+                "file": "Welcome.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Description.md"
+                "file": "Welcome.canvas"
               }
             }
           },
@@ -191,33 +190,75 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c09cda37ccae18d6",
+  "floating": {
+    "id": "8f15e9f87d4508b1",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4de5bd2a95f45475",
+        "type": "window",
+        "children": [
+          {
+            "id": "753bbc6f642067c5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f8a94ef09a53cf11",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Welcome.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 555,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f8a94ef09a53cf11",
   "lastOpenFiles": [
-    "Welcome.canvas",
-    "Notes/Description.md",
-    "Canvases/Exercise Dashboard.canvas",
-    "Attachments/ExcDashboard.png",
-    "Notes/Donate.md",
+    "Templates/Unique Note.md",
     "Notes/Prior 7 Details.md",
+    "Notes/Description.md",
+    "Notes/7DayStats.md",
     "Notes/7 day Excercise.md",
     "Notes/30 Day Stats.md",
-    "Notes/7DayStats.md",
     "Notes/202310191249.md",
-    "Canvases",
-    "fileClasses.conf/Routes.md",
     "fileClasses.conf/types.md",
+    "fileClasses.conf/Routes.md",
+    "fileClasses/exercise.md",
+    "fileClasses/Default.md",
+    "Canvases/Exercise Dashboard.canvas",
+    "Welcome.canvas",
+    "HTML",
+    "Attachments/ExcDashboard.png",
+    "Notes/Donate.md",
+    "Canvases",
     "fileClasses.conf/Stage.md",
     "fileClasses.conf/Published To.md",
     "fileClasses.conf/Organizations.md",
     "fileClasses.conf/AOI.md",
     "fileClasses.conf",
-    "Templates/Unique Note.md",
     "Templates/Exercise.md",
-    "fileClasses/exercise.md",
-    "fileClasses/Default.md",
     "fileClasses",
     "Attachments",
     "Notes",
